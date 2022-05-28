@@ -14,6 +14,13 @@ Binary check of an assumed factual statement.
 ### Results of Tally
 question, # true, # false, # current_roster, # null = (current_roster - (true + false))
 
+## Getting Started
+- Open the data.txt file
+- Add statement
+- Seperate additional statements by a blank line.
+- commit the changes
+- Share with others to build support
+
 ## Improvements
 This is intended as a simple procedure for proof of concept. Once up and running. Discussion on how to improve the procedure(s) is welcomed.
 
