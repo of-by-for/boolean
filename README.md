@@ -15,5 +15,5 @@ Binary check of an assumed factual statement.
 question, # true, # false, # current_roster, # null = (current_roster - (true + false))
 
 ## Improvements
-This is intended as a simple procedure as proof of concept. Once up and running. Discussion on how to improve the procedures is welcomed.
+This is intended as a simple procedure for proof of concept. Once up and running. Discussion on how to improve the procedure(s) is welcomed.
 
