@@ -16,8 +16,9 @@ question, # true, # false, # current_roster, # null = (current_roster - (true + 
 
 ## Getting Started
 - Open the data.txt file
-- Add statement
-- Seperate additional statements by a blank line.
+- Add statement. 
+ - Note: Sentence length statements are best.
+ - Seperate additional statements by a blank line.
 - commit the changes
 - Share with others to build support
 
